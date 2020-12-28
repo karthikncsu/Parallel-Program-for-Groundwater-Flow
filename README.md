@@ -1,1 +1,1 @@
-# Parallel-Program-for-Groundwater-Flow
+# Parallel program to simulate ground water flow problem
